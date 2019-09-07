@@ -1,0 +1,7 @@
+type Query {
+  messages: [Message]!
+}
+
+type Mutation {
+  addMessage(input: MessageInput!): Message!
+}
