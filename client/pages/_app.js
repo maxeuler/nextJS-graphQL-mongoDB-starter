@@ -30,3 +30,4 @@ class MyApp extends App {
 }
 
 export default apolloClient(MyApp);
+🚀 🚀 🚀
